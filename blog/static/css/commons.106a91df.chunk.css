@@ -1,0 +1,66 @@
+.header{
+    background-color: #fff;
+    padding: .4rem;
+    overflow: hidden;
+    height: 3.2rem;
+    border-bottom:1px solid #eee;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 999;
+}
+.header-logo{
+    color:#1e90ff;
+    font-size: 1.4rem;
+    text-align: left;
+   
+}
+.header-txt{
+    font-size: 0.6rem;
+    color: #999;
+    display: inline-block;
+    padding-left: 0.3rem;
+}
+.ant-meu{
+    line-height: 2.8rem;
+    
+}
+.ant-menu-item{
+    font-size: 1rem !important;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+}
+.footer-div{
+    text-align: center;
+    width: 100%;
+    padding: 1rem;
+    color:#888;
+}
+
+.author-div{
+    text-align: center;
+    padding: 1rem;
+
+}
+.author-div div{
+    margin-bottom: 1rem;
+
+}
+.author-introduction{
+    font-size:.8rem;
+    color: #999;
+}
+.account{
+    background-color: #999;
+    margin-left: .5rem;
+    margin-right: .5rem;
+}
+.ad-div{
+    margin-top: .5rem;
+}
+.ad-div div{
+    border-radius: .3rem;
+    margin-bottom: .2rem;
+    overflow: hidden;
+}
